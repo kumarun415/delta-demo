@@ -1,2 +1,11 @@
-# delta-demo
-This is a demo for git and github class.
+# My Project
+
+Live link :
+https://github.com/kumarun415/delta-demo
+
+# Features
+- Simple website
+- HTML + CSS
+
+# Author
+Arun Kumar
